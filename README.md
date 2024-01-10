@@ -1,5 +1,5 @@
 # What is this repository about?
-This repository is a database for my Data Projects(M.L/D.L models, Data Extracting/Cleaning/Analyzing, Dashboards and other stuff related to that)
+This repository is a database for my Data Projects(M.L/D.L models, Data Extracting/Cleaning/Analyzing, Dashboards and other stuff related to Data Science)
 # What each paste contains and :
 * Kaggle: This paste contains my Kaggle(https://www.kaggle.com/) competitions - Machine Learning/Deep Learning
   * Each paste inside Kaggle it is a competition with Data,Models and Predicts. Feel free to navigate and see what i have done :)
